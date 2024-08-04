@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/inito-clone/static/css/main.4b902bfb.css",
+    "main.js": "/inito-clone/static/js/main.0c1c40c5.js",
+    "static/media/women.svg": "/inito-clone/static/media/women.2f3fe52d62e1bf25b076b7aeeb33cc57.svg",
+    "static/media/fertility-chart.svg": "/inito-clone/static/media/fertility-chart.786aabdf2c7411e209edf7deccf47ddc.svg",
+    "static/media/high.svg": "/inito-clone/static/media/high.a93b1115d024f039fb81ac5d1209b60e.svg",
+    "static/media/bg.svg": "/inito-clone/static/media/bg.e11989c3beb3d45d0e57.svg",
+    "static/media/chart.svg": "/inito-clone/static/media/chart.e3e158b01276ffe25189deb2158fc256.svg",
+    "static/media/step4.svg": "/inito-clone/static/media/step4.5568be8e37b774abff19c755020848ba.svg",
+    "static/media/phone-screen.svg": "/inito-clone/static/media/phone-screen.d74744c364a78def29fda80b6a0ea1ab.svg",
+    "static/media/step3.svg": "/inito-clone/static/media/step3.b6ca893188882fa04bf45fc6568e5e8b.svg",
+    "static/media/track-fertility.svg": "/inito-clone/static/media/track-fertility.df3564183d9a192ce7fed06cb8a51723.svg",
+    "static/media/step1.svg": "/inito-clone/static/media/step1.f99dd4b8f0d59fcd1a95c23d85e8727f.svg",
+    "static/media/never-miss-a-day.svg": "/inito-clone/static/media/never-miss-a-day.adfe6e2bdf181e58e7e1280f7a81edcb.svg",
+    "static/media/step2.svg": "/inito-clone/static/media/step2.c450b8ac5c7195f0c323c5edb98566ff.svg",
+    "static/media/washington.svg": "/inito-clone/static/media/washington.1800805c3fa0568bee916f1d2d17675f.svg",
+    "static/media/thisWeek.svg": "/inito-clone/static/media/thisWeek.00a264fff3666af7058476d4953eda73.svg",
+    "static/media/entrepreneur.svg": "/inito-clone/static/media/entrepreneur.159bbbffc0e7f8783c89803a4de938df.svg",
+    "static/media/forbes.svg": "/inito-clone/static/media/forbes.052aa692b7f8b95603b396fcc8521374.svg",
+    "static/media/bloomberg.svg": "/inito-clone/static/media/bloomberg.da607b142194e9cf137e68b84e3f40b2.svg",
+    "static/media/logo-white.svg": "/inito-clone/static/media/logo-white.b4ac37f97b2853ac9950dce5c46a6784.svg",
+    "static/media/logo.svg": "/inito-clone/static/media/logo.5837e072a85e3bc72dd6439053fa2a21.svg",
+    "static/media/linkedin.svg": "/inito-clone/static/media/linkedin.22a2723e300fa55d6f8cb65f8a896928.svg",
+    "static/media/youtube.svg": "/inito-clone/static/media/youtube.529472ae4c8d9aca5a28f0683a8c989c.svg",
+    "static/media/menu.svg": "/inito-clone/static/media/menu.08dd7e0e8575744a2c355c8ecac0c688.svg",
+    "index.html": "/inito-clone/index.html",
+    "static/media/facebook.svg": "/inito-clone/static/media/facebook.1ce7f0b1ef1b5fdb175afcbef7a79629.svg",
+    "main.4b902bfb.css.map": "/inito-clone/static/css/main.4b902bfb.css.map",
+    "main.0c1c40c5.js.map": "/inito-clone/static/js/main.0c1c40c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b902bfb.css",
+    "static/js/main.0c1c40c5.js"
+  ]
+}
