@@ -8,7 +8,6 @@ body {
 }
 
 .swiper-container {
-  /* height: max-content; */
   @apply lg:h-[50vh];
 }
 

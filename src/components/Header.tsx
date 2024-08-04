@@ -8,7 +8,11 @@ function Header() {
 
   return (
     <div className="lg:px-[350px] px-5 flex flex-row justify-between items-center py-8">
-      <img onClick={() => navigate("/")} className="cursor-pointer" src={logo} alt={logo} />
+
+      <div className="flex gap-2">
+      <img className="lg:hidden block cursor-pointer" src={menu} alt={menu} />
+      <img onClick={() => navigate("/")} className="cursor-pointer h-8" src={logo} alt={logo} />
+      </div>
 
       <div className="lg:flex hidden items-center gap-10">
         {["About", "Blog", "FAQ", "Contacts"].map((item: any) => (
@@ -17,12 +21,10 @@ function Header() {
           </p>
         ))}
 
-        <button className="bg-cyan w-fit-content px-6 h-[50px] text-white font-medium rounded-full">
-          Try inito
-        </button>
       </div>
-
-      <img className="lg:hidden block cursor-pointer" src={menu} alt={menu} />
+      <button className="text-s bg-cyan lg:w-fit-content lg:px-6 px-4 py-2 lg:h-[50px] text-white lg:font-medium rounded-full">
+        Try inito
+      </button>
     </div>
   );
 }
