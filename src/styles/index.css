@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: white;
+  font-family: 'Montserrat';
+}
+
+.swiper-container {
+  /* height: max-content; */
+  @apply lg:h-[50vh];
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #1F94AA !important;
+}
+
+.banner{
+  background-image: url(/src/components/assets/bg.svg);
+  background-repeat: no-repeat;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
+
+.brands{
+  width: 12%;
+}
+
+.content{
+  width: 50%;
+}
+
+@media screen and (max-width:1023px) {
+  .banner{
+    background-image: none;
+    background-color: #C4F2FF;
+  }
+  .brands{
+    width: auto;
+  }
+  .content{
+    width: 80%;
+  }
+}
