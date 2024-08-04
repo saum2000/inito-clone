@@ -7,9 +7,9 @@ function Header() {
   const navigate = useNavigate();
 
   return (
-    <div className="lg:px-[350px] px-5 flex flex-row justify-between items-center py-8">
+    <div className="px-5 flex flex-row lg:justify-evenly justify-between items-center py-2">
 
-      <div className="flex gap-2">
+      <div className="flex items-center gap-2">
       <img className="lg:hidden block cursor-pointer" src={menu} alt={menu} />
       <img onClick={() => navigate("/")} className="cursor-pointer h-8" src={logo} alt={logo} />
       </div>

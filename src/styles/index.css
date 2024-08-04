@@ -15,7 +15,7 @@ body {
   background-color: #1F94AA !important;
 }
 
-.banner{
+.banner {
   background-image: url(/src/components/assets/bg.svg);
   background-repeat: no-repeat;
   justify-content: center;
