@@ -2,6 +2,7 @@
   "name": "inito",
   "version": "0.0.1",
   "private": true,
+  "homepage": "https://saum2000.github.io/inito-clone",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
@@ -23,10 +24,12 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start": "react-scripts start",
     "build": "react-scripts build",
+    "start": "react-scripts start",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -48,6 +51,7 @@
   },
   "devDependencies": {
     "@types/react-slick": "^0.23.10",
+    "gh-pages": "^6.1.1",
     "tailwindcss": "^3.3.1"
   }
 }
