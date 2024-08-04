@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/inito-clone/static/css/main.4b902bfb.css",
-    "main.js": "/inito-clone/static/js/main.0c1c40c5.js",
+    "main.css": "/inito-clone/static/css/main.a9ae2727.css",
+    "main.js": "/inito-clone/static/js/main.278d81e9.js",
     "static/media/women.svg": "/inito-clone/static/media/women.2f3fe52d62e1bf25b076b7aeeb33cc57.svg",
     "static/media/fertility-chart.svg": "/inito-clone/static/media/fertility-chart.786aabdf2c7411e209edf7deccf47ddc.svg",
     "static/media/high.svg": "/inito-clone/static/media/high.a93b1115d024f039fb81ac5d1209b60e.svg",
@@ -26,11 +26,11 @@
     "static/media/menu.svg": "/inito-clone/static/media/menu.08dd7e0e8575744a2c355c8ecac0c688.svg",
     "index.html": "/inito-clone/index.html",
     "static/media/facebook.svg": "/inito-clone/static/media/facebook.1ce7f0b1ef1b5fdb175afcbef7a79629.svg",
-    "main.4b902bfb.css.map": "/inito-clone/static/css/main.4b902bfb.css.map",
-    "main.0c1c40c5.js.map": "/inito-clone/static/js/main.0c1c40c5.js.map"
+    "main.a9ae2727.css.map": "/inito-clone/static/css/main.a9ae2727.css.map",
+    "main.278d81e9.js.map": "/inito-clone/static/js/main.278d81e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b902bfb.css",
-    "static/js/main.0c1c40c5.js"
+    "static/css/main.a9ae2727.css",
+    "static/js/main.278d81e9.js"
   ]
 }
