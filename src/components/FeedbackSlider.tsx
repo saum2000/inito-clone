@@ -80,18 +80,13 @@ export default function FeedbackSlider() {
   }, [screenSize]);
 
   return (
-    <div className="lg:w-[1290px] m-auto mt-[10px] flex justify-center items-center">
+    <div className="lg:w-[1290px] m-auto mt-[10px] flex justify-center items-center mb-10">
       <Swiper
         pagination={{
           dynamicBullets: true,
           clickable: true,
         }}
-        // spaceBetween={10}
         centeredSlides={screenSize.dynamicWidth < 768 ? true : false}
-        // autoplay={{
-        //   delay: 3500,
-        //   disableOnInteraction: true,
-        // }}
         cssMode={true}
         mousewheel={true}
         keyboard={true}
